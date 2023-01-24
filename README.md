@@ -7,8 +7,8 @@ https://super-market-analysis-node-app.herokuapp.com/all-sales
 
 these are the available endpoints :
 
-method : POST \n
-description : import CSV file and insert it to database \n
+method : POST 
+description : import CSV file and insert it to database 
 https://super-market-analysis-node-app.herokuapp.com/superMarket/insertFile
 
 method : GET
